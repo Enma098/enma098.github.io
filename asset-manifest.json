@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/enma098.github.io/static/css/main.85aeb05e.css",
+    "main.js": "/enma098.github.io/static/js/main.3b671710.js",
+    "static/js/787.e4838ce5.chunk.js": "/enma098.github.io/static/js/787.e4838ce5.chunk.js",
+    "static/media/BG1.jpeg": "/enma098.github.io/static/media/BG1.fab12baaf9691403d78c.jpeg",
+    "static/media/comp.jpg": "/enma098.github.io/static/media/comp.b6d062cba5a62bac461a.jpg",
+    "static/media/logo.jpg": "/enma098.github.io/static/media/logo.4313e3d054878cd02b99.jpg",
+    "index.html": "/enma098.github.io/index.html",
+    "main.85aeb05e.css.map": "/enma098.github.io/static/css/main.85aeb05e.css.map",
+    "main.3b671710.js.map": "/enma098.github.io/static/js/main.3b671710.js.map",
+    "787.e4838ce5.chunk.js.map": "/enma098.github.io/static/js/787.e4838ce5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85aeb05e.css",
+    "static/js/main.3b671710.js"
+  ]
+}
